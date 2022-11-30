@@ -6,6 +6,6 @@
 
 Интересные задачи про острова
 
-**[[Problems with Candies](https://github.com/fediukov/problems_with_candies)**
+**[Problems with Candies](https://github.com/fediukov/problems_with_candies)**
 
 Интересные задачи про конфеты
